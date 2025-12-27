@@ -1,0 +1,169 @@
+[
+  {
+    "id": "starter-ima",
+    "text": "אמא",
+    "transliteration": "ima",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "אִ", "order": 0},
+      {"text": "מָ", "order": 1}
+    ],
+    "tags": ["family"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/ima.svg",
+    "audioPath": "/assets/starter/audio/ima.txt"
+  },
+  {
+    "id": "starter-aba",
+    "text": "אבא",
+    "transliteration": "aba",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "אָ", "order": 0},
+      {"text": "בָ", "order": 1}
+    ],
+    "tags": ["family"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/aba.svg",
+    "audioPath": "/assets/starter/audio/aba.txt"
+  },
+  {
+    "id": "starter-shalom",
+    "text": "שלום",
+    "transliteration": "shalom",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "שָ", "order": 0},
+      {"text": "לוֹם", "order": 1}
+    ],
+    "tags": ["greeting"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/shalom.svg",
+    "audioPath": "/assets/starter/audio/shalom.txt"
+  },
+  {
+    "id": "starter-yeled",
+    "text": "ילד",
+    "transliteration": "yeled",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "יֶ", "order": 0},
+      {"text": "לֶד", "order": 1}
+    ],
+    "tags": ["people"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/yeled.svg",
+    "audioPath": "/assets/starter/audio/yeled.txt"
+  },
+  {
+    "id": "starter-yalda",
+    "text": "ילדה",
+    "transliteration": "yalda",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "יַל", "order": 0},
+      {"text": "דָה", "order": 1}
+    ],
+    "tags": ["people"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/yalda.svg",
+    "audioPath": "/assets/starter/audio/yalda.txt"
+  },
+  {
+    "id": "starter-mayim",
+    "text": "מים",
+    "transliteration": "mayim",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "מַ", "order": 0},
+      {"text": "יִם", "order": 1}
+    ],
+    "tags": ["nature"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/mayim.svg",
+    "audioPath": "/assets/starter/audio/mayim.txt"
+  },
+  {
+    "id": "starter-shemesh",
+    "text": "שמש",
+    "transliteration": "shemesh",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "שֶ", "order": 0},
+      {"text": "מֶש", "order": 1}
+    ],
+    "tags": ["nature"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/shemesh.svg",
+    "audioPath": "/assets/starter/audio/shemesh.txt"
+  },
+  {
+    "id": "starter-lavan",
+    "text": "לבן",
+    "transliteration": "lavan",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "לָ", "order": 0},
+      {"text": "בָן", "order": 1}
+    ],
+    "tags": ["colors"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/lavan.svg",
+    "audioPath": "/assets/starter/audio/lavan.txt"
+  },
+  {
+    "id": "starter-kachol",
+    "text": "כחול",
+    "transliteration": "kachol",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "כָ", "order": 0},
+      {"text": "חוֹל", "order": 1}
+    ],
+    "tags": ["colors"],
+    "difficulty": "medium",
+    "imagePath": "/assets/starter/images/kachol.svg",
+    "audioPath": "/assets/starter/audio/kachol.txt"
+  },
+  {
+    "id": "starter-adom",
+    "text": "אדום",
+    "transliteration": "adom",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "אֲ", "order": 0},
+      {"text": "דוֹם", "order": 1}
+    ],
+    "tags": ["colors"],
+    "difficulty": "medium",
+    "imagePath": "/assets/starter/images/adom.svg",
+    "audioPath": "/assets/starter/audio/adom.txt"
+  },
+  {
+    "id": "starter-yarok",
+    "text": "ירוק",
+    "transliteration": "yarok",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "יָ", "order": 0},
+      {"text": "רוֹק", "order": 1}
+    ],
+    "tags": ["colors"],
+    "difficulty": "medium",
+    "imagePath": "/assets/starter/images/yarok.svg",
+    "audioPath": "/assets/starter/audio/yarok.txt"
+  },
+  {
+    "id": "starter-etz",
+    "text": "עץ",
+    "transliteration": "etz",
+    "language": "he-IL",
+    "syllables": [
+      {"text": "עֵץ", "order": 0}
+    ],
+    "tags": ["nature"],
+    "difficulty": "easy",
+    "imagePath": "/assets/starter/images/etz.svg",
+    "audioPath": "/assets/starter/audio/etz.txt"
+  }
+]
